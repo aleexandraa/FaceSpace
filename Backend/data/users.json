@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1006",
+    "name": "Amenadiel",
+    "friends": ["1007", "1008", "1009"],
+    "avatarUrl": "/images/profile-pics/Amenadiel.jpg"
+  },
+  {
+    "id": "1007",
+    "name": "Dan",
+    "friends": ["1006", "1008", "1009"],
+    "avatarUrl": "/images/profile-pics/Dan.webp"
+  },
+  {
+    "id": "1008",
+    "name": "Detective",
+    "friends": ["1006", "1007", "1009"],
+    "avatarUrl": "/images/profile-pics/Detective.jpg"
+  },
+  {
+    "id": "1009",
+    "name": "Eve",
+    "friends": ["1006", "1008", "1007"],
+    "avatarUrl": "/images/profile-pics/Eve.jpg"
+  },
+  {
+    "id": "1013",
+    "name": "Linda",
+    "friends": ["1014", "1018", "1023"],
+    "avatarUrl": "/images/profile-pics/Linda.jpg"
+  },
+  {
+    "id": "1014",
+    "name": "Lucifer",
+    "friends": ["1013", "1015", "1016", "1017"],
+    "avatarUrl": "/images/profile-pics/Lucifer.jpg"
+  },
+  {
+    "id": "1015",
+    "name": "Maze",
+    "friends": ["1014", "1016", "1017"],
+    "avatarUrl": "/images/profile-pics/Maze.jpg"
+  },
+  {
+    "id": "1016",
+    "name": "Ella",
+    "friends": ["1014", "1015", "1017"],
+    "avatarUrl": "/images/profile-pics/Ella.jpg"
+  },
+  {
+    "id": "1017",
+    "name": "God",
+    "friends": ["1014", "1015", "1016"],
+    "avatarUrl": "/images/profile-pics/God.jpg"
+  },
+  {
+    "id": "1018",
+    "name": "Malcom",
+    "friends": ["1013", "1019", "1020", "1021"],
+    "avatarUrl": "/images/profile-pics/Malcom.jpg"
+  },
+  {
+    "id": "1019",
+    "name": "Marcus",
+    "friends": ["1018", "1020", "1021"],
+    "avatarUrl": "/images/profile-pics/Marcus.jpg"
+  },
+  {
+    "id": "1020",
+    "name": "Rory",
+    "friends": ["1019", "1018", "1021"],
+    "avatarUrl": "/images/profile-pics/Rory.jpg"
+  },
+  {
+    "id": "1021",
+    "name": "Trixie",
+    "friends": ["1019", "1020", "1018"],
+    "avatarUrl": "/images/profile-pics/Trixie.jpg"
+  },
+  {
+    "id": "1022",
+    "name": "Charlote",
+    "friends": ["1023", "1024", "1025"],
+    "avatarUrl": "/images/profile-pics/Charlote.jpg"
+  },
+  {
+    "id": "1023",
+    "name": "John",
+    "friends": ["1013", "1022", "1024", "1025"],
+    "avatarUrl": "/images/profile-pics/John.jpg"
+  },
+  {
+    "id": "1024",
+    "name": "Candy",
+    "friends": ["1023", "1022", "1025"],
+    "avatarUrl": "/images/profile-pics/Candy.jpg"
+  },
+  {
+    "id": "1025",
+    "name": "Uriel",
+    "friends": ["1023", "1024", "1022"],
+    "avatarUrl": "/images/profile-pics/Uriel.jpg"
+  },
+  {
+    "id": "1026",
+    "name": "Delilah",
+    "friends": ["1027", "1028", "1029"],
+    "avatarUrl": "/images/profile-pics/Delilah.jpg"
+  },
+  {
+    "id": "1027",
+    "name": "Penelope",
+    "friends": ["1026", "1028", "1029"],
+    "avatarUrl": "/images/profile-pics/Penelope.jpg"
+  },
+  {
+    "id": "1028",
+    "name": "Amy",
+    "friends": ["1027", "1026", "1029"],
+    "avatarUrl": "/images/profile-pics/Amy.jpg"
+  },
+  {
+    "id": "1029",
+    "name": "Abel",
+    "friends": ["1027", "1028", "1026"],
+    "avatarUrl": "/images/profile-pics/Abel.jpg"
+  },
+  {
+    "id": "1030",
+    "name": "Father",
+    "friends": ["1031", "1032"],
+    "avatarUrl": "/images/profile-pics/Father.jpg"
+  },
+  {
+    "id": "1031",
+    "name": "Junior",
+    "friends": ["1030", "1032"],
+    "avatarUrl": "/images/profile-pics/Junior.jpg"
+  },
+  {
+    "id": "1032",
+    "name": "Josh",
+    "friends": ["1031", "1030"],
+    "avatarUrl": "/images/profile-pics/Josh.jpg"
+  }
+]
